@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "HOME"
+    url: /
+  - title: "PUBLICATIONS"
+    url: /PUBLICATIONS/
+  - title: "CV"
+    url: https://vishnuvardhancr.github.io/resume/Resume_VishnuVardhan.pdf
+  #- title: "About Me"
+  #  url: /aboutme/
+  # - title: "Sitemap"
+  #   url: /sitemap/
